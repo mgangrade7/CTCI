@@ -1,5 +1,8 @@
 package com.solution.ctci.chp1;
 
+// Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
+//cannot use additional data structures?
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
